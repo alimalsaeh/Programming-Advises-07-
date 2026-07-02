@@ -1,0 +1,13 @@
+﻿  First-Project.cpp
+D:\My-projects\First-Project\First-Project\First-Project.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+D:\My-projects\First-Project\First-Project\First-Project.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+D:\My-projects\First-Project\First-Project\First-Project.cpp(118,21): warning C4018: '<': signed/unsigned mismatch
+D:\My-projects\First-Project\First-Project\First-Project.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+D:\My-projects\First-Project\First-Project\First-Project.cpp(133,31): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\My-projects\First-Project\First-Project\First-Project.cpp(149,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\My-projects\First-Project\First-Project\First-Project.cpp(164,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\My-projects\First-Project\First-Project\First-Project.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+D:\My-projects\First-Project\First-Project\First-Project.cpp(230,29): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\My-projects\First-Project\First-Project\First-Project.cpp(236,20): warning C4018: '<': signed/unsigned mismatch
+D:\My-projects\First-Project\First-Project\First-Project.cpp(259,20): warning C4018: '<': signed/unsigned mismatch
+  First-Project.vcxproj -> D:\My-projects\First-Project\Debug\First-Project.exe
